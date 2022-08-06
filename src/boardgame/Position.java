@@ -8,16 +8,16 @@ public class Position {
 
     }
 
-    public Position(int raw, int column) {
-        this.row = raw;
+    public Position(int row, int column) {
+        this.row = row;
         this.column = column;
     }
 
-    public int getRaw() {
+    public int getRow() {
         return row;
     }
 
-    public void setRaw(int row) {
+    public void setRow(int row) {
         this.row = row;
     }
 
