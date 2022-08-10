@@ -4,7 +4,7 @@ import chess.ChessPiece;
 import chess.ChessPosition;
 import chess.Color;
 
-import java.io.StreamTokenizer;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
